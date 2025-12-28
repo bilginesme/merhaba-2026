@@ -1,0 +1,140 @@
+{
+  "HOME": {
+    "TITLE": "Velkommen til Dice to Midnight",
+    "SUBTITLE": "Rull deg inn i det nye året",
+    "HELLO": "Hei",
+    "NEW_YEAR_MESSAGE": "Hva venter i 2026?",
+    "BEWARE_CAN_BE_BROKEN": "Forsiktig!\nKnuselig!",
+    "LOADING": "VELKOMMEN 2026\nLASTER...",
+    "GAME_OVER": "GAME OVER"
+  },
+  "BUTTONS": {
+    "START": "START SPILL",
+    "SETTINGS": "INNSTILLINGER",
+    "EXIT": "AVSLUTT",
+    "CONTINUE_WITH_DICE_ROLL": "Kast terningen\nfor å\nstarte",
+    "CLOSE": "LUKK",
+    "PLAY_AGAIN_SINGLE_LINE": "SPILL IGJEN",
+    "PLAY_AGAIN_MULTI_LINE": "SPILL\nIGJEN",
+    "SHARE": "DEL",
+    "HOME_PAGE": "HJEMMESIDE"
+  },
+  "GAME_MODES": {
+    "GAME_MODE_CHOOSING_SUBTITLE": "Trykk for å bytte modus",
+    "PRIME": {
+      "TITLE": "PRIMÆR VIRKELIGHET",
+      "SUBTITLE": "Hvor tidslinjen din begynner."
+    },
+    "PARALLEL_UNIVERSE": {
+      "TITLE": "PARALLELT UNIVERS",
+      "SUBTITLE": "Bøy skjebnen etter din vilje."
+    },
+    "HEARTS": {
+      "TITLE": "CUPIDOS PIL",
+      "SUBTITLE": "Søk ditt hjertes ønske."
+    },
+    "MONEY": {
+      "TITLE": "MIDAS' BERØRING",
+      "SUBTITLE": "Oppdag rikdommen det nye året bringer."
+    },
+    "SCORE_COMMENTS": {
+      "PERFECT": "Helt fantastisk!",
+      "HIGH": "En stor bragd!",
+      "MID": "Ikke verst!",
+      "LOW": "Bedre enn ingenting.",
+      "ZERO": "Er dette en spøk?"
+    },
+    "ADVERTISEMENT": "Utforsk Nye Riker"
+  },
+  "TROPHIES": {
+    "BONUS": "BONUS",
+    "HEALTH": "HELSE",
+    "LOVE": "HJERTE",
+    "MONEY": "PENGER",
+    "SUCCESS": "SUKSESS",
+    "MIRACLE": "MIRAKEL",
+    "NONE": "INGEN"
+  },
+  "BONUS": {
+    "DEFINITIONS": [
+      "En vakker reise venter deg.",
+      "Uventede penger fra en usannsynlig kilde.",
+      "Å møte en gammel venn du har mistet kontakten med.",
+      "En heldig regnbue dukker opp bare for deg.",
+      "En drøm du har hatt går i oppfyllelse.",
+      "Du finner deg selv i et helt nytt fellesskap.",
+      "En film som endrer synet ditt på livet.",
+      "En bok som åpner hjertet og sinnet ditt.",
+      "En overraskelsesgave fra noen du aldri ville forventet.",
+      "Du finner igjen en tapt gjenstand du virkelig var glad i.",
+      "Mirakuløse parkeringsplasser — akkurat når du trenger dem.",
+      "En uforglemmelig festivalopplevelse.",
+      "En fremmed viser deg uventet vennlighet.",
+      "Du starter en herlig ny hobby.",
+      "Et problem som lenge har plaget deg blir endelig løst.",
+      "En reise til land du aldri har besøkt.",
+      "Du får en idé som endrer alt.",
+      "Noen ser endelig din sanne verdi.",
+      "Du ler mer enn du har gjort på mange år.",
+      "Et kjæledyr (eller vilt dyr) gir deg et uventet tegn.",
+      "En gammel sang gir plutselig perfekt mening.",
+      "Noen forelsker seg i ditt rareste trekk.",
+      "Smilet ditt endrer noens dag — og de forteller deg det.",
+      "Du finner motet til å si noe du har holdt inne i årevis.",
+      "Du kommer over et skjult sted som føles magisk.",
+      "Du mestrer endelig den tingen du trodde du aldri ville klare.",
+      "Arbeidet ditt blir anerkjent på en meningsfull måte.",
+      "Du finner tilbake til en lidenskap fra barndommen.",
+      "Noen sender deg et brev — ekte eller digitalt — som rører hjertet ditt.",
+      "En liten avgjørelse fører til et uforglemmelig eventyr.",
+      "Du ser et stjerneskudd — og ønsker deg noe som betyr noe."
+    ]
+  },
+  "MESSAGES": {
+    "CONFIRM_EXIT": "Er du sikker på at du vil avslutte?",
+    "PLAYCARD_OPENED": "Trykk på terningen\nfor å bruke et kort",
+    "GAME_OVER_CELL": "Game Over\nhvis du\nlander her",
+    "CANNOT_OPEN_WHILE_MOVING": "Skjebnen er\ni bevegelse!",
+    "RESTORE_SUCCESS": "Gjenoppretting vellykket!",
+    "RESTORE_FAILURE": "Ingen tidligere kjøp funnet"
+  },
+  "ABOUT": {
+    "LINE1": "La reisen begynne.",
+    "LINE2": "Forvent det uventede — det er en del av moroa!",
+    "LINE3": "Del historien — eventyr er bedre sammen."
+  },
+  "GAME_END": {
+    "LINE1": "Skjebnen er fortalt! Men hvem sier det er endelig?",
+    "LINE2": "Rull igjen — eller spill for noen som trenger litt flaks.",
+    "LINE3": "Dobbel moro — del det rundt!"
+  },
+  "OPENING_MESSAGE": {
+    "LINE1": "Stjernene står riktig for en ny reise.",
+    "LINE2": "Kast de hellige terningene og avslør hemmelighetene på din vei.",
+    "LINE3": "Hvilken skjebne venter der fremme? La terningene bestemme."
+  },
+  "SHARE": {
+    "TITLE": "Dice to Midnight",
+    "TEXT": "Rull deg inn i det nye året"
+  },
+  "SETTINGS": {
+    "TITLE": "Innstillinger",
+    "SOUND": "Lyd",
+    "BACKGROUND_MUSIC": "Musikk",
+    "LANGUAGE": "Språk"
+  },
+  "SHOP_SCREEN": {
+    "TITLE": "LÅS OPP SKJEBNEN DIN",
+    "DESCRIPTION": "Én nøkkel åpner alle dører. Lås opp Parallelt Univers, Cupidos Pil og Midas' Berøring for å ta full kontroll over fremtiden din.",
+    "UNLOCK": "LÅS OPP ALT",
+    "RESTORE_PURCHASES": "GJENOPPRETT",
+    "BACK_TO_GAME": "TILBAKE TIL SPILLET"
+  },
+  "MODE_CHOOSING_SCREEN": {
+    "TITLE": "VELG DIN SKJEBNE",
+    "DESCRIPTION": "Det er fire måter å manifestere skjebnen din på. Velg og spill.",
+    "UNLOCK": "LÅS OPP ALT",
+    "RESTORE_PURCHASES": "GJENOPPRETT",
+    "BACK_TO_GAME": "TILBAKE TIL SPILLET"
+  }
+}

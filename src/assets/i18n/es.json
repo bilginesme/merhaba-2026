@@ -1,0 +1,140 @@
+{
+  "HOME": {
+    "TITLE": "Bienvenido a Dice to Midnight",
+    "SUBTITLE": "Lanza los dados hacia el Año Nuevo",
+    "HELLO": "Hola",
+    "NEW_YEAR_MESSAGE": "¿Qué te espera en 2026?",
+    "BEWARE_CAN_BE_BROKEN": "¡Cuidado!\n¡Frágil!",
+    "LOADING": "BIENVENIDO 2026\nCARGANDO...",
+    "GAME_OVER": "FIN DEL JUEGO"
+  },
+  "BUTTONS": {
+    "START": "INICIAR JUEGO",
+    "SETTINGS": "AJUSTES",
+    "EXIT": "SALIR",
+    "CONTINUE_WITH_DICE_ROLL": "Lanza los dados\npara\nempezar",
+    "CLOSE": "CERRAR",
+    "PLAY_AGAIN_SINGLE_LINE": "JUGAR DE NUEVO",
+    "PLAY_AGAIN_MULTI_LINE": "JUGAR\nDE NUEVO",
+    "SHARE": "COMPARTIR",
+    "HOME_PAGE": "INICIO"
+  },
+  "GAME_MODES": {
+    "GAME_MODE_CHOOSING_SUBTITLE": "Toca para cambiar de modo",
+    "PRIME": {
+      "TITLE": "REALIDAD PRIMORDIAL",
+      "SUBTITLE": "Donde comienza tu línea temporal."
+    },
+    "PARALLEL_UNIVERSE": {
+      "TITLE": "UNIVERSO PARALELO",
+      "SUBTITLE": "Doblega el destino a tu voluntad."
+    },
+    "HEARTS": {
+      "TITLE": "FLECHA DE CUPIDO",
+      "SUBTITLE": "Busca el deseo de tu corazón."
+    },
+    "MONEY": {
+      "TITLE": "TOQUE DE MIDAS",
+      "SUBTITLE": "Descubre la riqueza que trae el año nuevo."
+    },
+    "SCORE_COMMENTS": {
+      "PERFECT": "¡Absolutamente fantástico!",
+      "HIGH": "¡Un gran logro!",
+      "MID": "¡Nada mal!",
+      "LOW": "Peor es nada.",
+      "ZERO": "¿Es una broma?"
+    },
+    "ADVERTISEMENT": "Explorar Nuevos Reinos"
+  },
+  "TROPHIES": {
+    "BONUS": "BONUS",
+    "HEALTH": "SALUD",
+    "LOVE": "AMOR",
+    "MONEY": "DINERO",
+    "SUCCESS": "ÉXITO",
+    "MIRACLE": "MILAGRO",
+    "NONE": "NINGUNO"
+  },
+  "BONUS": {
+    "DEFINITIONS": [
+      "Un hermoso viaje te espera.",
+      "Dinero inesperado de una fuente improbable.",
+      "Encontrarte con un viejo amigo perdido.",
+      "Un arcoíris de la suerte aparece solo para ti.",
+      "Un sueño que has tenido se hace realidad.",
+      "Te encuentras en una comunidad completamente nueva.",
+      "Una película que cambia tu perspectiva de la vida.",
+      "Un libro que abre tu corazón y tu mente.",
+      "Un regalo sorpresa de alguien que nunca esperarías.",
+      "Recuperas un objeto perdido que amabas de verdad.",
+      "Aparcamiento milagroso, justo cuando lo necesitas.",
+      "Una experiencia inolvidable en un festival.",
+      "Un extraño te ofrece una amabilidad inesperada.",
+      "Empiezas un nuevo y encantador pasatiempo.",
+      "Un problema que te ha molestado mucho tiempo finalmente se resuelve.",
+      "Un viaje a tierras que nunca has visitado.",
+      "Tienes una idea que lo cambia todo.",
+      "Alguien finalmente ve tu verdadero valor.",
+      "Te ríes más fuerte de lo que lo has hecho en años.",
+      "Una mascota (o animal salvaje) te trae una señal inesperada.",
+      "Una vieja canción de repente cobra todo el sentido.",
+      "Alguien se enamora de tu rasgo más extraño.",
+      "Tu sonrisa cambia el día de alguien, y te lo dicen.",
+      "Encuentras el coraje para decir algo que has callado durante años.",
+      "Te tropiezas con un lugar oculto que se siente mágico.",
+      "Finalmente dominas eso que pensaste que nunca harías.",
+      "Tu trabajo es reconocido de una manera significativa.",
+      "Te reconectas con una pasión de la infancia.",
+      "Alguien te envía una carta (real o digital) que toca tu corazón.",
+      "Una pequeña decisión conduce a una aventura inolvidable.",
+      "Ves una estrella fugaz y pides un deseo importante."
+    ]
+  },
+  "MESSAGES": {
+    "CONFIRM_EXIT": "¿Estás seguro de que quieres salir?",
+    "PLAYCARD_OPENED": "Toca el dado\npara usar una carta",
+    "GAME_OVER_CELL": "Fin del juego\nsi caes aquí",
+    "CANNOT_OPEN_WHILE_MOVING": "¡El destino\nestá en marcha!",
+    "RESTORE_SUCCESS": "¡Restauración exitosa!",
+    "RESTORE_FAILURE": "No se encontraron compras"
+  },
+  "ABOUT": {
+    "LINE1": "Que comience el viaje.",
+    "LINE2": "Espera lo inesperado, ¡es parte de la diversión!",
+    "LINE3": "Comparte la historia, las aventuras son mejores juntos."
+  },
+  "GAME_END": {
+    "LINE1": "¡La fortuna está echada! Pero, ¿quién dice que es definitivo?",
+    "LINE2": "Lanza de nuevo, o juega por alguien que necesite suerte.",
+    "LINE3": "Doble diversión: ¡compártelo!"
+  },
+  "OPENING_MESSAGE": {
+    "LINE1": "Las estrellas se alinean para un nuevo viaje.",
+    "LINE2": "Lanza los dados sagrados y revela los secretos ocultos en tu camino.",
+    "LINE3": "¿Qué destino te espera? Deja que los dados decidan."
+  },
+  "SHARE": {
+    "TITLE": "Dice to Midnight",
+    "TEXT": "Lanza los dados hacia el Año Nuevo"
+  },
+  "SETTINGS": {
+    "TITLE": "Ajustes",
+    "SOUND": "Sonido",
+    "BACKGROUND_MUSIC": "Música",
+    "LANGUAGE": "Idioma"
+  },
+  "SHOP_SCREEN": {
+    "TITLE": "DESBLOQUEA TU DESTINO",
+    "DESCRIPTION": "Una llave abre todas las puertas. Desbloquea Universo Paralelo, Flecha de Cupido y Toque de Midas para tomar el control total de tu futuro.",
+    "UNLOCK": "DESBLOQUEAR TODO",
+    "RESTORE_PURCHASES": "RESTAURAR",
+    "BACK_TO_GAME": "VOLVER AL JUEGO"
+  },
+  "MODE_CHOOSING_SCREEN": {
+    "TITLE": "ELIGE TU DESTINO",
+    "DESCRIPTION": "Hay cuatro formas de manifestar tu destino. Elige y juega.",
+    "UNLOCK": "DESBLOQUEAR TODO",
+    "RESTORE_PURCHASES": "RESTAURAR",
+    "BACK_TO_GAME": "VOLVER AL JUEGO"
+  }
+}

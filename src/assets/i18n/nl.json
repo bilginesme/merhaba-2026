@@ -1,0 +1,140 @@
+{
+  "HOME": {
+    "TITLE": "Welkom bij Dice to Midnight",
+    "SUBTITLE": "Rol jezelf het nieuwe jaar in",
+    "HELLO": "Hallo",
+    "NEW_YEAR_MESSAGE": "Wat staat je te wachten in 2026?",
+    "BEWARE_CAN_BE_BROKEN": "Pas op!\nBreekbaar!",
+    "LOADING": "WELKOM 2026\nLADEN...",
+    "GAME_OVER": "GAME OVER"
+  },
+  "BUTTONS": {
+    "START": "START SPEL",
+    "SETTINGS": "INSTELLINGEN",
+    "EXIT": "STOPPEN",
+    "CONTINUE_WITH_DICE_ROLL": "Gooi de\ndobbelstenen\nom te starten",
+    "CLOSE": "SLUITEN",
+    "PLAY_AGAIN_SINGLE_LINE": "OPNIEUW SPELEN",
+    "PLAY_AGAIN_MULTI_LINE": "OPNIEUW\nSPELEN",
+    "SHARE": "DELEN",
+    "HOME_PAGE": "STARTPAGINA"
+  },
+  "GAME_MODES": {
+    "GAME_MODE_CHOOSING_SUBTITLE": "Tik om van modus te wisselen",
+    "PRIME": {
+      "TITLE": "PRIMAIRE REALITEIT",
+      "SUBTITLE": "Waar je tijdlijn begint."
+    },
+    "PARALLEL_UNIVERSE": {
+      "TITLE": "PARALLEL UNIVERSUM",
+      "SUBTITLE": "Buig het lot naar je wil."
+    },
+    "HEARTS": {
+      "TITLE": "CUPIDO'S PIJL",
+      "SUBTITLE": "Zoek je hartenwens."
+    },
+    "MONEY": {
+      "TITLE": "MIDAS AANRAKING",
+      "SUBTITLE": "Ontdek de rijkdom die het nieuwe jaar brengt."
+    },
+    "SCORE_COMMENTS": {
+      "PERFECT": "Absoluut fantastisch!",
+      "HIGH": "Een geweldige prestatie!",
+      "MID": "Niet slecht!",
+      "LOW": "Beter dan niets.",
+      "ZERO": "Is dit een grap?"
+    },
+    "ADVERTISEMENT": "Nieuwe Rijken Verkennen"
+  },
+  "TROPHIES": {
+    "BONUS": "BONUS",
+    "HEALTH": "GEZONDHEID",
+    "LOVE": "LIEFDE",
+    "MONEY": "GELD",
+    "SUCCESS": "SUCCES",
+    "MIRACLE": "WONDER",
+    "NONE": "GEEN"
+  },
+  "BONUS": {
+    "DEFINITIONS": [
+      "Een prachtige reis wacht op je.",
+      "Onverwacht geld uit een onwaarschijnlijke bron.",
+      "Een lang verloren vriend tegenkomen.",
+      "Een geluksregenboog verschijnt speciaal voor jou.",
+      "Een droom die je koesterde komt uit.",
+      "Je vindt jezelf in een gloednieuwe gemeenschap.",
+      "Een film die je kijk op het leven verandert.",
+      "Een boek dat je hart en geest opent.",
+      "Een verrassingscadeau van iemand die je nooit zou verwachten.",
+      "Je vindt een verloren voorwerp terug waar je echt van hield.",
+      "Wonderbaarlijke parkeerplekken — precies wanneer je ze nodig hebt.",
+      "Een onvergetelijke festivalervaring.",
+      "Een vreemde biedt je onverwachte vriendelijkheid.",
+      "Je begint een heerlijke nieuwe hobby.",
+      "Een probleem dat je lang dwarszat wordt eindelijk opgelost.",
+      "Een reis naar landen die je nooit hebt bezocht.",
+      "Je krijgt een idee dat alles verandert.",
+      "Iemand ziet eindelijk je ware waarde.",
+      "Je lacht harder dan je in jaren hebt gedaan.",
+      "Een huisdier (of wild dier) brengt je een onverwacht teken.",
+      "Een oud liedje is plotseling volkomen logisch.",
+      "Iemand wordt verliefd op je vreemdste eigenschap.",
+      "Je glimlach verandert iemands dag — en ze vertellen het je.",
+      "Je vindt de moed om iets te zeggen dat je al jaren inhoudt.",
+      "Je stuit op een verborgen plek die magisch aanvoelt.",
+      "Je beheerst eindelijk datgene waarvan je dacht dat je het nooit zou kunnen.",
+      "Je werk wordt op een betekenisvolle manier erkend.",
+      "Je maakt opnieuw verbinding met een passie uit je jeugd.",
+      "Iemand stuurt je een brief — echt of digitaal — die je hart raakt.",
+      "Een kleine beslissing leidt tot een onvergetelijk avontuur.",
+      "Je ziet een vallende ster — en doet een wens die ertoe doet."
+    ]
+  },
+  "MESSAGES": {
+    "CONFIRM_EXIT": "Weet je zeker dat je wilt stoppen?",
+    "PLAYCARD_OPENED": "Tik op de dobbelsteen\nom een kaart te gebruiken",
+    "GAME_OVER_CELL": "Game Over\nals je\nhier landt",
+    "CANNOT_OPEN_WHILE_MOVING": "Het lot is\nin beweging!",
+    "RESTORE_SUCCESS": "Herstel geslaagd!",
+    "RESTORE_FAILURE": "Geen eerdere aankopen gevonden"
+  },
+  "ABOUT": {
+    "LINE1": "Laat de reis beginnen.",
+    "LINE2": "Verwacht het onverwachte — het is deel van het plezier!",
+    "LINE3": "Deel het verhaal — avonturen zijn beter samen."
+  },
+  "GAME_END": {
+    "LINE1": "De toekomst is voorspeld! Maar wie zegt dat het definitief is?",
+    "LINE2": "Gooi opnieuw — of speel voor iemand die wat geluk kan gebruiken.",
+    "LINE3": "Dubbel plezier — deel het rond!"
+  },
+  "OPENING_MESSAGE": {
+    "LINE1": "De sterren staan goed voor een nieuwe reis.",
+    "LINE2": "Werp de heilige dobbelstenen en onthul de geheimen op je pad.",
+    "LINE3": "Welk lot ligt er in het verschiet? Laat de dobbelstenen beslissen."
+  },
+  "SHARE": {
+    "TITLE": "Dice to Midnight",
+    "TEXT": "Rol jezelf het nieuwe jaar in"
+  },
+  "SETTINGS": {
+    "TITLE": "Instellingen",
+    "SOUND": "Geluid",
+    "BACKGROUND_MUSIC": "Muziek",
+    "LANGUAGE": "Taal"
+  },
+  "SHOP_SCREEN": {
+    "TITLE": "ONTGRENDEL JE LOT",
+    "DESCRIPTION": "Eén sleutel opent elke deur. Ontgrendel Parallel Universum, Cupido's Pijl en Midas Aanraking om volledige controle over je toekomst te nemen.",
+    "UNLOCK": "OPEN ALLES",
+    "RESTORE_PURCHASES": "HERSTELLEN",
+    "BACK_TO_GAME": "TERUG NAAR SPEL"
+  },
+  "MODE_CHOOSING_SCREEN": {
+    "TITLE": "KIES JE LOT",
+    "DESCRIPTION": "Er zijn vier manieren om je lot te manifesteren. Kies en speel.",
+    "UNLOCK": "OPEN ALLES",
+    "RESTORE_PURCHASES": "HERSTELLEN",
+    "BACK_TO_GAME": "TERUG NAAR SPEL"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "HOME": {
+    "TITLE": "Benvenuti a Dice to Midnight",
+    "SUBTITLE": "Lancia i dadi verso il Nuovo Anno",
+    "HELLO": "Ciao",
+    "NEW_YEAR_MESSAGE": "Cosa ti aspetta nel 2026?",
+    "BEWARE_CAN_BE_BROKEN": "Attenzione!\nFragile!",
+    "LOADING": "BENVENUTO 2026\nCARICAMENTO...",
+    "GAME_OVER": "GAME OVER"
+  },
+  "BUTTONS": {
+    "START": "INIZIA GIOCO",
+    "SETTINGS": "IMPOSTAZIONI",
+    "EXIT": "ESCI",
+    "CONTINUE_WITH_DICE_ROLL": "Lancia i dadi\nper iniziare",
+    "CLOSE": "CHIUDI",
+    "PLAY_AGAIN_SINGLE_LINE": "GIOCA ANCORA",
+    "PLAY_AGAIN_MULTI_LINE": "GIOCA\nANCORA",
+    "SHARE": "CONDIVIDI",
+    "HOME_PAGE": "HOME PAGE"
+  },
+  "GAME_MODES": {
+    "GAME_MODE_CHOOSING_SUBTITLE": "Tocca per cambiare modalità",
+    "PRIME": {
+      "TITLE": "REALTÀ PRIMARIA",
+      "SUBTITLE": "Dove inizia la tua linea temporale."
+    },
+    "PARALLEL_UNIVERSE": {
+      "TITLE": "UNIVERSO PARALLELO",
+      "SUBTITLE": "Piega il destino al tuo volere."
+    },
+    "HEARTS": {
+      "TITLE": "FRECCIA DI CUPIDO",
+      "SUBTITLE": "Cerca il desiderio del tuo cuore."
+    },
+    "MONEY": {
+      "TITLE": "TOCCO DI RE MIDA",
+      "SUBTITLE": "Scopri la ricchezza che porta il nuovo anno."
+    },
+    "SCORE_COMMENTS": {
+      "PERFECT": "Assolutamente fantastico!",
+      "HIGH": "Un grande risultato!",
+      "MID": "Niente male!",
+      "LOW": "Meglio di niente.",
+      "ZERO": "È uno scherzo?"
+    },
+    "ADVERTISEMENT": "Esplora Nuovi Regni"
+  },
+  "TROPHIES": {
+    "BONUS": "BONUS",
+    "HEALTH": "SALUTE",
+    "LOVE": "AMORE",
+    "MONEY": "DENARO",
+    "SUCCESS": "SUCCESSO",
+    "MIRACLE": "MIRACOLO",
+    "NONE": "NESSUNO"
+  },
+  "BONUS": {
+    "DEFINITIONS": [
+      "Un bellissimo viaggio ti aspetta.",
+      "Denaro inaspettato da una fonte improbabile.",
+      "Incontrare un amico perso da tempo.",
+      "Un arcobaleno fortunato appare solo per te.",
+      "Un sogno che hai nel cassetto si avvera.",
+      "Ti ritrovi in una comunità completamente nuova.",
+      "Un film che cambia la tua visione della vita.",
+      "Un libro che apre il tuo cuore e la tua mente.",
+      "Un regalo a sorpresa da qualcuno che non ti aspetteresti mai.",
+      "Ritrovi un oggetto smarrito che amavi davvero.",
+      "Parcheggi miracolosi, proprio quando ne hai bisogno.",
+      "Un'esperienza indimenticabile a un festival.",
+      "Uno sconosciuto ti offre una gentilezza inaspettata.",
+      "Inizi un nuovo delizioso hobby.",
+      "Un problema che ti ha infastidito a lungo viene finalmente risolto.",
+      "Un viaggio in terre che non hai mai visitato.",
+      "Hai un'idea che cambia tutto.",
+      "Qualcuno vede finalmente il tuo vero valore.",
+      "Ridi più forte di quanto non facessi da anni.",
+      "Un animale (o selvatico) ti porta un segno inaspettato.",
+      "Una vecchia canzone improvvisamente ha perfettamente senso.",
+      "Qualcuno si innamora del tuo tratto più strano.",
+      "Il tuo sorriso cambia la giornata di qualcuno — e te lo dicono.",
+      "Trovi il coraggio di dire qualcosa che hai tenuto dentro per anni.",
+      "Ti imbatti in un luogo nascosto che sembra magico.",
+      "Finalmente padroneggi quella cosa che pensavi non avresti mai fatto.",
+      "Il tuo lavoro viene riconosciuto in modo significativo.",
+      "Ti riconnetti con una passione dell'infanzia.",
+      "Qualcuno ti invia una lettera — reale o digitale — che tocca il tuo cuore.",
+      "Una piccola decisione porta a un'avventura indimenticabile.",
+      "Vedi una stella cadente — ed esprimi un desiderio importante."
+    ]
+  },
+  "MESSAGES": {
+    "CONFIRM_EXIT": "Sei sicuro di voler uscire?",
+    "PLAYCARD_OPENED": "Tocca il dado\nper usare una carta",
+    "GAME_OVER_CELL": "Game Over\nse atterri qui",
+    "CANNOT_OPEN_WHILE_MOVING": "Il destino\nè in moto!",
+    "RESTORE_SUCCESS": "Ripristino riuscito!",
+    "RESTORE_FAILURE": "Nessun acquisto trovato"
+  },
+  "ABOUT": {
+    "LINE1": "Che il viaggio abbia inizio.",
+    "LINE2": "Aspettati l'inaspettato — fa parte del divertimento!",
+    "LINE3": "Condividi la storia — le avventure sono migliori insieme."
+  },
+  "GAME_END": {
+    "LINE1": "La fortuna è tratta! Ma chi dice che sia definitivo?",
+    "LINE2": "Lancia di nuovo — o gioca per qualcuno che ha bisogno di fortuna.",
+    "LINE3": "Doppio divertimento — condividilo in giro!"
+  },
+  "OPENING_MESSAGE": {
+    "LINE1": "Le stelle si allineano per un nuovo viaggio.",
+    "LINE2": "Lancia i dadi sacri e svela i segreti nascosti sul tuo cammino.",
+    "LINE3": "Quale destino ti attende? Lascia che i dadi decidano."
+  },
+  "SHARE": {
+    "TITLE": "Dice to Midnight",
+    "TEXT": "Lancia i dadi verso il Nuovo Anno"
+  },
+  "SETTINGS": {
+    "TITLE": "Impostazioni",
+    "SOUND": "Suono",
+    "BACKGROUND_MUSIC": "Musica",
+    "LANGUAGE": "Lingua"
+  },
+  "SHOP_SCREEN": {
+    "TITLE": "SBLOCCA IL TUO DESTINO",
+    "DESCRIPTION": "Una chiave apre tutte le porte. Sblocca Universo Parallelo, Freccia di Cupido e Tocco di Re Mida per prendere il pieno controllo del tuo futuro.",
+    "UNLOCK": "SBLOCCA TUTTO",
+    "RESTORE_PURCHASES": "RIPRISTINA",
+    "BACK_TO_GAME": "TORNA AL GIOCO"
+  },
+  "MODE_CHOOSING_SCREEN": {
+    "TITLE": "SCEGLI IL TUO DESTINO",
+    "DESCRIPTION": "Ci sono quattro modi per manifestare il tuo destino. Scegli e gioca.",
+    "UNLOCK": "SBLOCCA TUTTO",
+    "RESTORE_PURCHASES": "RIPRISTINA",
+    "BACK_TO_GAME": "TORNA AL GIOCO"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "HOME": {
+    "TITLE": "Willkommen bei Dice to Midnight",
+    "SUBTITLE": "Würfeln Sie sich ins neue Jahr",
+    "HELLO": "Hallo",
+    "NEW_YEAR_MESSAGE": "Was erwartet Sie 2026?",
+    "BEWARE_CAN_BE_BROKEN": "Achtung!\nZerbrechlich!",
+    "LOADING": "WILLKOMMEN 2026\nLÄDT...",
+    "GAME_OVER": "SPIEL VORBEI"
+  },
+  "BUTTONS": {
+    "START": "SPIEL STARTEN",
+    "SETTINGS": "EINSTELLUNGEN",
+    "EXIT": "BEENDEN",
+    "CONTINUE_WITH_DICE_ROLL": "Würfeln Sie,\num zu\nstarten",
+    "CLOSE": "SCHLIESSEN",
+    "PLAY_AGAIN_SINGLE_LINE": "NOCHMAL SPIELEN",
+    "PLAY_AGAIN_MULTI_LINE": "NOCHMAL\nSPIELEN",
+    "SHARE": "TEILEN",
+    "HOME_PAGE": "STARTSEITE"
+  },
+  "GAME_MODES": {
+    "GAME_MODE_CHOOSING_SUBTITLE": "Tippen zum Wechseln",
+    "PRIME": {
+      "TITLE": "PRIME-REALITÄT",
+      "SUBTITLE": "Wo Ihre Zeitlinie beginnt."
+    },
+    "PARALLEL_UNIVERSE": {
+      "TITLE": "PARALLELUNIVERSUM",
+      "SUBTITLE": "Beugen Sie das Schicksal nach Ihrem Willen."
+    },
+    "HEARTS": {
+      "TITLE": "AMORS PFEIL",
+      "SUBTITLE": "Suchen Sie das Begehren Ihres Herzens."
+    },
+    "MONEY": {
+      "TITLE": "MIDAS-BERÜHRUNG",
+      "SUBTITLE": "Entdecken Sie den Reichtum des neuen Jahres."
+    },
+    "SCORE_COMMENTS": {
+      "PERFECT": "Absolut fantastisch!",
+      "HIGH": "Eine tolle Leistung!",
+      "MID": "Nicht schlecht!",
+      "LOW": "Besser als nichts.",
+      "ZERO": "Ist das ein Witz?"
+    },
+    "ADVERTISEMENT": "Neue Welten entdecken"
+  },
+  "TROPHIES": {
+    "BONUS": "BONUS",
+    "HEALTH": "KRAFT",
+    "LOVE": "LIEBE",
+    "MONEY": "GELD",
+    "SUCCESS": "ERFOLG",
+    "MIRACLE": "WUNDER",
+    "NONE": "KEINES"
+  },
+  "BONUS": {
+    "DEFINITIONS": [
+      "Eine wunderbare Reise erwartet Sie.",
+      "Unerwartetes Geld aus einer unwahrscheinlichen Quelle.",
+      "Ein Wiedersehen mit einem lange verlorenen Freund.",
+      "Ein Glücksregenbogen erscheint nur für Sie.",
+      "Ein lang gehegter Traum wird wahr.",
+      "Sie finden sich in einer brandneuen Gemeinschaft wieder.",
+      "Ein Film, der Ihre Sicht auf das Leben verändert.",
+      "Ein Buch, das Herz und Verstand öffnet.",
+      "Ein Überraschungsgeschenk von jemandem, den Sie nie erwartet hätten.",
+      "Sie finden einen geliebten Gegenstand wieder, den Sie lange verloren glaubten.",
+      "Wunderbare Parkplätze – genau dann, wenn Sie sie brauchen.",
+      "Ein unvergessliches Festival-Erlebnis.",
+      "Ein Fremder bietet Ihnen unerwartete Freundlichkeit an.",
+      "Sie beginnen ein herrliches neues Hobby.",
+      "Ein Problem, das Sie lange belastet hat, wird endlich gelöst.",
+      "Eine Reise in Länder, die Sie noch nie besucht haben.",
+      "Sie haben eine Idee, die alles verändert.",
+      "Jemand erkennt endlich Ihren wahren Wert.",
+      "Sie lachen herzlicher als seit Jahren.",
+      "Ein Haustier (oder wildes Tier) bringt Ihnen ein unerwartetes Zeichen.",
+      "Ein altes Lied ergibt plötzlich vollkommen Sinn.",
+      "Jemand verliebt sich in Ihre eigenartigste Eigenschaft.",
+      "Ihr Lächeln verändert den Tag von jemandem – und er sagt es Ihnen.",
+      "Sie finden den Mut, etwas zu sagen, das Sie jahrelang zurückgehalten haben.",
+      "Sie stoßen auf einen verborgenen Ort, der sich magisch anfühlt.",
+      "Sie meistern endlich die Sache, von der Sie dachten, Sie würden es nie schaffen.",
+      "Ihre Arbeit wird auf bedeutsame Weise anerkannt.",
+      "Sie verbinden sich wieder mit einer Leidenschaft aus der Kindheit.",
+      "Jemand sendet Ihnen einen Brief – echt oder digital –, der Ihr Herz berührt.",
+      "Eine kleine Entscheidung führt zu einem unvergesslichen Abenteuer.",
+      "Sie sehen eine Sternschnuppe – und wünschen sich etwas Bedeutendes."
+    ]
+  },
+  "MESSAGES": {
+    "CONFIRM_EXIT": "Sind Sie sicher, dass Sie aufhören wollen?",
+    "PLAYCARD_OPENED": "Tippen Sie auf den Würfel,\num eine Karte zu nutzen",
+    "GAME_OVER_CELL": "Spiel vorbei,\nwenn Sie\nhier landen",
+    "CANNOT_OPEN_WHILE_MOVING": "Das Schicksal\nist in Bewegung!",
+    "RESTORE_SUCCESS": "Wiederherstellung erfolgreich!",
+    "RESTORE_FAILURE": "Keine Käufe gefunden"
+  },
+  "ABOUT": {
+    "LINE1": "Lassen Sie die Reise beginnen.",
+    "LINE2": "Erwarten Sie das Unerwartete – das ist Teil des Spaßes!",
+    "LINE3": "Teilen Sie die Geschichte – Abenteuer sind gemeinsam besser."
+  },
+  "GAME_END": {
+    "LINE1": "Die Zukunft ist vorhergesagt! Aber wer sagt, dass es endgültig ist?",
+    "LINE2": "Würfeln Sie erneut – oder spielen Sie für jemanden, der Glück braucht.",
+    "LINE3": "Doppelter Spaß – teilen Sie es mit anderen!"
+  },
+  "OPENING_MESSAGE": {
+    "LINE1": "Die Sterne stehen günstig für eine neue Reise.",
+    "LINE2": "Werfen Sie die heiligen Würfel und enthüllen Sie die Geheimnisse Ihres Weges.",
+    "LINE3": "Welches Schicksal liegt vor Ihnen? Lassen Sie die Würfel entscheiden."
+  },
+  "SHARE": {
+    "TITLE": "Dice to Midnight",
+    "TEXT": "Würfeln Sie sich ins neue Jahr"
+  },
+  "SETTINGS": {
+    "TITLE": "Einstellungen",
+    "SOUND": "Ton",
+    "BACKGROUND_MUSIC": "Musik",
+    "LANGUAGE": "Sprache"
+  },
+  "SHOP_SCREEN": {
+    "TITLE": "SCHICKSAL FREISCHALTEN",
+    "DESCRIPTION": "Ein Schlüssel öffnet jede Tür. Schalten Sie Paralleluniversum, Amors Pfeil und Midas-Berührung frei, um die volle Kontrolle über Ihre Zukunft zu übernehmen.",
+    "UNLOCK": "ALLE FREISCHALTEN",
+    "RESTORE_PURCHASES": "WIEDERHERSTELLEN",
+    "BACK_TO_GAME": "ZURÜCK ZUM SPIEL"
+  },
+  "MODE_CHOOSING_SCREEN": {
+    "TITLE": "WÄHLEN SIE IHR SCHICKSAL",
+    "DESCRIPTION": "Es gibt vier Wege, Ihr Schicksal zu manifestieren. Wählen und spielen Sie.",
+    "UNLOCK": "ALLE FREISCHALTEN",
+    "RESTORE_PURCHASES": "WIEDERHERSTELLEN",
+    "BACK_TO_GAME": "ZURÜCK ZUM SPIEL"
+  }
+}
