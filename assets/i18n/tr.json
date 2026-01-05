@@ -1,0 +1,140 @@
+{
+  "HOME": {
+    "TITLE": "Dice to Midnight'a Hoş Geldiniz",
+    "SUBTITLE": "Zarlarla Yeni Yıla doğru yol alın",
+    "HELLO": "Merhaba",
+    "NEW_YEAR_MESSAGE": "2026'da sizi neler bekliyor?",
+    "BEWARE_CAN_BE_BROKEN": "Dikkat!\nKırılabilir!",
+    "LOADING": "HOŞ GELDİN 2026\nYÜKLENİYOR...",
+    "GAME_OVER": "OYUN BİTTİ"
+  },
+  "BUTTONS": {
+    "START": "OYUNU BAŞLAT",
+    "SETTINGS": "AYARLAR",
+    "EXIT": "ÇIKIŞ",
+    "CONTINUE_WITH_DICE_ROLL": "\nBaşlamak için\nzarı atın",
+    "CLOSE": "KAPAT",
+    "PLAY_AGAIN_SINGLE_LINE": "TEKRAR OYNA",
+    "PLAY_AGAIN_MULTI_LINE": "TEKRAR\nOYNA",
+    "SHARE": "PAYLAŞ",
+    "HOME_PAGE": "ANA SAYFA"
+  },
+  "GAME_MODES": {
+    "GAME_MODE_CHOOSING_SUBTITLE": "Modu değiştirmek için dokunun",
+    "PRIME": {
+      "TITLE": "ANA GERÇEKLİK",
+      "SUBTITLE": "Zaman çizelgenizin başladığı yer."
+    },
+    "PARALLEL_UNIVERSE": {
+      "TITLE": "PARALEL EVREN",
+      "SUBTITLE": "Kaderi iradenizle bükün."
+    },
+    "HEARTS": {
+      "TITLE": "EROS'UN OKU",
+      "SUBTITLE": "Kalbinizin arzusunu arayın."
+    },
+    "MONEY": {
+      "TITLE": "MİDAS'IN DOKUNUŞU",
+      "SUBTITLE": "Yeni yılın getireceği zenginliği keşfedin."
+    },
+    "SCORE_COMMENTS": {
+      "PERFECT": "Tek Kelimeyle Muhteşem!",
+      "HIGH": "Süper Bir Başarı!",
+      "MID": "Fena Değil!",
+      "LOW": "Hiç Yoktan İyidir.",
+      "ZERO": "Şaka Mı Bu?"
+    },
+    "ADVERTISEMENT": "Yeni Diyarları Keşfet"
+  },
+  "TROPHIES": {
+    "BONUS": "BONUS",
+    "HEALTH": "SAĞLIK",
+    "LOVE": "AŞK",
+    "MONEY": "PARA",
+    "SUCCESS": "BAŞARI",
+    "MIRACLE": "MUCİZE",
+    "NONE": "YOK"
+  },
+  "BONUS": {
+    "DEFINITIONS": [
+      "Sizi güzel bir yolculuk bekliyor.",
+      "Beklenmedik bir yerden gelen sürpriz para.",
+      "Uzun zamandır kayıp bir arkadaşla karşılaşma.",
+      "Sadece sizin için beliren şanslı bir gökkuşağı.",
+      "Uzun zamandır kurduğunuz bir hayal gerçekleşiyor.",
+      "Kendinizi yepyeni bir topluluğun içinde buluyorsunuz.",
+      "Hayata bakış açınızı değiştiren bir film.",
+      "Kalbinizi ve zihninizi açan bir kitap.",
+      "Hiç beklemediğiniz birinden sürpriz bir hediye.",
+      "Çok sevdiğiniz ama kaybettiğiniz bir eşyayı buluyorsunuz.",
+      "Tam ihtiyacınız olduğunda beliren mucizevi park yerleri.",
+      "Unutulmaz bir festival deneyimi.",
+      "Bir yabancıdan gelen beklenmedik bir iyilik.",
+      "Keyifli yeni bir hobiye başlıyorsunuz.",
+      "Sizi uzun süredir rahatsız eden bir sorun nihayet çözülüyor.",
+      "Hiç gitmediğiniz diyarlara bir yolculuk.",
+      "Her şeyi değiştiren bir fikir aklınıza geliyor.",
+      "Birisi sonunda gerçek değerinizi görüyor.",
+      "Yıllardır gülmediğiniz kadar çok gülüyorsunuz.",
+      "Bir evcil (veya vahşi) hayvan size beklenmedik bir işaret getiriyor.",
+      "Eski bir şarkı aniden mükemmel bir anlam kazanıyor.",
+      "Biri sizin en tuhaf özelliğinize aşık oluyor.",
+      "Gülüşünüz birinin gününü değiştiriyor — ve bunu size söylüyorlar.",
+      "Yıllardır içinizde tuttuğunuz bir şeyi söyleme cesaretini buluyorsunuz.",
+      "Sihir gibi hissettiren gizli bir yer keşfediyorsunuz.",
+      "Asla yapamayacağınızı sandığınız o işte ustalaşıyorsunuz.",
+      "Çalışmalarınız anlamlı bir şekilde takdir ediliyor.",
+      "Çocukluğunuzdan kalma bir tutkuyla yeniden bağ kuruyorsunuz.",
+      "Biri size kalbinize dokunan (gerçek veya dijital) bir mektup gönderiyor.",
+      "Küçük bir karar unutulmaz bir maceraya yol açıyor.",
+      "Bir kayan yıldız görüyorsunuz — ve önemli bir dilek tutuyorsunuz."
+    ]
+  },
+  "MESSAGES": {
+    "CONFIRM_EXIT": "Çıkmak istediğinize emin misiniz?",
+    "PLAYCARD_OPENED": "Kartı kullanmak\nisterseniz zara\ndokunun. İstemezseniz\ntekrar zar atın",
+    "GAME_OVER_CELL": "Buraya\ngelirseniz\noyun biter",
+    "CANNOT_OPEN_WHILE_MOVING": "Kader\nhareket halinde!",
+    "RESTORE_SUCCESS": "Geri Yükleme Başarılı!",
+    "RESTORE_FAILURE": "Satın Alım Bulunamadı"
+  },
+  "ABOUT": {
+    "LINE1": "Yolculuk başlasın.",
+    "LINE2": "Beklenmeyeni bekleyin — eğlencenin bir parçası bu!",
+    "LINE3": "Hikayeyi paylaşın — maceralar birlikte güzeldir."
+  },
+  "GAME_END": {
+    "LINE1": "Fal bakıldı! Ama kim bunun son söz olduğunu söyleyebilir?",
+    "LINE2": "Tekrar atın — ya da şansa ihtiyacı olan biri için oynayın.",
+    "LINE3": "Eğlenceyi ikiye katlayın — etrafınızla paylaşın!"
+  },
+  "OPENING_MESSAGE": {
+    "LINE1": "Yıldızlar yeni bir yolculuk için hizalanıyor.",
+    "LINE2": "Zarları atın ve yolunuzdaki gizli sırları ortaya çıkarın.",
+    "LINE3": "İleride nasıl bir kader yatıyor? Bırakın zarlar karar versin."
+  },
+  "SHARE": {
+    "TITLE": "Dice to Midnight",
+    "TEXT": "Zarlarla Yeni Yıla doğru yol alın"
+  },
+  "SETTINGS": {
+    "TITLE": "Ayarlar",
+    "SOUND": "Ses",
+    "BACKGROUND_MUSIC": "Müzik",
+    "LANGUAGE": "Dil"
+  },
+  "SHOP_SCREEN": {
+    "TITLE": "KADERİNİZİN KİLİDİNİ AÇIN",
+    "DESCRIPTION": "Tek bir anahtar her kapıyı açar. Paralel Evren, Eros'un Oku ve Midas'ın Dokunuşu'nu açarak geleceğinizin kontrolünü elinize alın.",
+    "UNLOCK": "HEPSİNİ AÇ",
+    "RESTORE_PURCHASES": "GERİ YÜKLE",
+    "BACK_TO_GAME": "OYUNA DÖN"
+  },
+  "MODE_CHOOSING_SCREEN": {
+    "TITLE": "KADERİNİZİ SEÇİN",
+    "DESCRIPTION": "Kaderinizi ortaya çıkartmanın dört yolu var. Seçin ve oynayın.",
+    "UNLOCK": "HEPSİNİ AÇ",
+    "RESTORE_PURCHASES": "GERİ YÜKLE",
+    "BACK_TO_GAME": "OYUNA DÖN"
+  }
+}

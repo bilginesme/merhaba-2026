@@ -1,0 +1,140 @@
+{
+  "HOME": {
+    "TITLE": "Welcome to Dice to Midnight",
+    "SUBTITLE": "Roll your way into the New Year",
+    "HELLO": "Hello",
+    "NEW_YEAR_MESSAGE": "What awaits in 2026?",
+    "BEWARE_CAN_BE_BROKEN": "Beware!\nFragile!",
+    "LOADING": "WELCOME 2026\nLOADING...",
+    "GAME_OVER": "GAME OVER"
+  },
+  "BUTTONS": {
+    "START": "START GAME",
+    "SETTINGS": "SETTINGS",
+    "EXIT": "EXIT",
+    "CONTINUE_WITH_DICE_ROLL": "\nRoll the\ndice to start",
+    "CLOSE": "CLOSE",
+    "PLAY_AGAIN_SINGLE_LINE": "PLAY AGAIN",
+    "PLAY_AGAIN_MULTI_LINE": "PLAY\nAGAIN",
+    "SHARE": "SHARE",
+    "HOME_PAGE": "HOME PAGE"
+  },
+  "GAME_MODES": {
+    "GAME_MODE_CHOOSING_SUBTITLE": "Tap to switch modes",
+    "PRIME": {
+      "TITLE": "PRIME REALITY",
+      "SUBTITLE": "Where your timeline begins."
+    },
+    "PARALLEL_UNIVERSE": {
+      "TITLE": "PARALLEL UNIVERSE",
+      "SUBTITLE": "Bend fate to your will."
+    },
+    "HEARTS": {
+      "TITLE": "CUPID'S ARROW",
+      "SUBTITLE": "Seek your heart's desire."
+    },
+    "MONEY": {
+      "TITLE": "MIDAS TOUCH",
+      "SUBTITLE": "Discover the wealth the new year brings."
+    },
+    "SCORE_COMMENTS": {
+      "PERFECT": "Absolutely Fantastic!",
+      "HIGH": "A Great Achievement!",
+      "MID": "Not Bad!",
+      "LOW": "Better Than Nothing.",
+      "ZERO": "Is This a Joke?"
+    },
+    "ADVERTISEMENT": "Explore New Realms"
+  },
+  "TROPHIES": {
+    "BONUS": "BONUS",
+    "HEALTH": "HEALTH",
+    "LOVE": "LOVE",
+    "MONEY": "MONEY",
+    "SUCCESS": "SUCCESS",
+    "MIRACLE": "MIRACLE",
+    "NONE": "NONE"
+  },
+  "BONUS": {
+    "DEFINITIONS": [
+      "A beautiful journey awaits you.",
+      "Unexpected money from an unlikely source.",
+      "Running into a long-lost friend.",
+      "A lucky rainbow appears just for you.",
+      "A dream you've held comes true.",
+      "You find yourself in a brand-new community.",
+      "A movie that changes your outlook on life.",
+      "A book that opens your heart and mind.",
+      "A surprise gift from someone you'd never expect.",
+      "You recover a long-lost item you truly loved.",
+      "Miraculous parking spots — just when you need them.",
+      "An unforgettable festival experience.",
+      "A stranger offers you unexpected kindness.",
+      "You start a delightful new hobby.",
+      "A problem that’s long bothered you is finally solved.",
+      "A journey to lands you've never visited.",
+      "You get an idea that changes everything.",
+      "Someone finally sees your true worth.",
+      "You laugh harder than you have in years.",
+      "A pet (or wild animal) brings you an unexpected sign.",
+      "An old song suddenly makes perfect sense.",
+      "Someone falls in love with your weirdest trait.",
+      "Your smile changes someone’s day — and they tell you.",
+      "You find the courage to say something you've held in for years.",
+      "You stumble upon a hidden place that feels like magic.",
+      "You finally master that thing you thought you never would.",
+      "Your work gets recognized in a meaningful way.",
+      "You reconnect with a passion from childhood.",
+      "Someone sends you a letter — real or digital — that touches your heart.",
+      "A small decision leads to an unforgettable adventure.",
+      "You see a shooting star — and make a wish that matters."
+    ]
+  },
+  "MESSAGES": {
+    "CONFIRM_EXIT": "Are you sure you want to quit?",
+    "PLAYCARD_OPENED": "Tap the dice\nto use a card",
+    "GAME_OVER_CELL": "Game Over\nif you land here",
+    "CANNOT_OPEN_WHILE_MOVING": "Destiny is\nin motion!",
+    "RESTORE_SUCCESS": "Restore Successful!",
+    "RESTORE_FAILURE": "No Previous Purchases Found"
+  },
+  "ABOUT": {
+    "LINE1": "Let’s begin the journey.",
+    "LINE2": "Expect the unexpected — it’s part of the fun!",
+    "LINE3": "Share the tale — adventures are better together."
+  },
+  "GAME_END": {
+    "LINE1": "Fortune told! But who’s to say it’s final?",
+    "LINE2": "Roll again — or play for someone who could use some luck.",
+    "LINE3": "Double the fun — share it around!"
+  },
+  "OPENING_MESSAGE": {
+    "LINE1": "The stars align for a new journey.",
+    "LINE2": "Roll the sacred dice and unveil the secrets hidden on your path.",
+    "LINE3": "What fate lies ahead? Let the dice decide."
+  },
+  "SHARE": {
+    "TITLE": "Dice to Midnight",
+    "TEXT": "Roll your way into the New Year"
+  },
+  "SETTINGS": {
+    "TITLE": "Settings",
+    "SOUND": "Sound",
+    "BACKGROUND_MUSIC": "Music",
+    "LANGUAGE": "Language"
+  },
+  "SHOP_SCREEN": {
+    "TITLE": "UNLOCK YOUR DESTINY",
+    "DESCRIPTION": "One key opens every door. Unlock Parallel Universe, Cupid's Arrow, and Midas Touch to take full control of your future.",
+    "UNLOCK": "EXPLORE NEW REALMS",
+    "RESTORE_PURCHASES": "RESTORE",
+    "BACK_TO_GAME": "BACK TO GAME"
+  },
+  "MODE_CHOOSING_SCREEN": {
+    "TITLE": "CHOOSE YOUR DESTINY",
+    "DESCRIPTION": "There are four ways to manifest your destiny. Choose and play.",
+    "UNLOCK": "EXPLORE NEW REALMS",
+    "RESTORE_PURCHASES": "RESTORE",
+    "BACK_TO_GAME": "BACK TO GAME"
+  }
+}

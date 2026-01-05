@@ -1,0 +1,140 @@
+{
+  "HOME": {
+    "TITLE": "Välkommen till Dice to Midnight",
+    "SUBTITLE": "Rulla dig in i det nya året",
+    "HELLO": "Hej",
+    "NEW_YEAR_MESSAGE": "Vad väntar 2026?",
+    "BEWARE_CAN_BE_BROKEN": "Varning!\nÖmtåligt!",
+    "LOADING": "VÄLKOMMEN 2026\nLADDAR...",
+    "GAME_OVER": "GAME OVER"
+  },
+  "BUTTONS": {
+    "START": "STARTA SPEL",
+    "SETTINGS": "INSTÄLLNINGAR",
+    "EXIT": "AVSLUTA",
+    "CONTINUE_WITH_DICE_ROLL": "Kasta tärningen\nför att\nstarta",
+    "CLOSE": "STÄNG",
+    "PLAY_AGAIN_SINGLE_LINE": "SPELA IGEN",
+    "PLAY_AGAIN_MULTI_LINE": "SPELA\nIGEN",
+    "SHARE": "DELA",
+    "HOME_PAGE": "STARTSIDA"
+  },
+  "GAME_MODES": {
+    "GAME_MODE_CHOOSING_SUBTITLE": "Tryck för att byta läge",
+    "PRIME": {
+      "TITLE": "PRIMÄR VERKLIGHET",
+      "SUBTITLE": "Där din tidslinje börjar."
+    },
+    "PARALLEL_UNIVERSE": {
+      "TITLE": "PARALLELLT UNIVERSUM",
+      "SUBTITLE": "Böj ödet efter din vilja."
+    },
+    "HEARTS": {
+      "TITLE": "CUPIDOS PIL",
+      "SUBTITLE": "Sök ditt hjärtas önskan."
+    },
+    "MONEY": {
+      "TITLE": "MIDAS BERÖRING",
+      "SUBTITLE": "Upptäck rikedomen det nya året medför."
+    },
+    "SCORE_COMMENTS": {
+      "PERFECT": "Helt fantastiskt!",
+      "HIGH": "En stor bedrift!",
+      "MID": "Inte illa!",
+      "LOW": "Bättre än inget.",
+      "ZERO": "Är det här ett skämt?"
+    },
+    "ADVERTISEMENT": "Utforska Nya Riken"
+  },
+  "TROPHIES": {
+    "BONUS": "BONUS",
+    "HEALTH": "HÄLSA",
+    "LOVE": "KÄRLEK",
+    "MONEY": "PENGAR",
+    "SUCCESS": "FRAMGÅNG",
+    "MIRACLE": "MIRAKEL",
+    "NONE": "INGET"
+  },
+  "BONUS": {
+    "DEFINITIONS": [
+      "En vacker resa väntar dig.",
+      "Oväntade pengar från en osannolik källa.",
+      "Att springa in i en gammal vän.",
+      "En lyckoregnbåge dyker upp bara för dig.",
+      "En dröm du har haft går i uppfyllelse.",
+      "Du finner dig själv i en helt ny gemenskap.",
+      "En film som förändrar din syn på livet.",
+      "En bok som öppnar ditt hjärta och sinne.",
+      "En överraskningspresent från någon du aldrig skulle vänta dig.",
+      "Du återfår ett förlorat föremål du verkligen älskade.",
+      "Mirakulösa parkeringsplatser — precis när du behöver dem.",
+      "En oförglömlig festivalupplevelse.",
+      "En främling visar dig oväntad vänlighet.",
+      "Du börjar med en härlig ny hobby.",
+      "Ett problem som länge stört dig blir äntligen löst.",
+      "En resa till länder du aldrig har besökt.",
+      "Du får en idé som förändrar allt.",
+      "Någon ser äntligen ditt sanna värde.",
+      "Du skrattar mer än du gjort på år.",
+      "Ett husdjur (eller vilt djur) ger dig ett oväntat tecken.",
+      "En gammal låt blir plötsligt fullkomligt logisk.",
+      "Någon blir kär i ditt konstigaste drag.",
+      "Ditt leende förändrar någons dag — och de berättar det för dig.",
+      "Du hittar modet att säga något du hållit inne i åratal.",
+      "Du snubblar över en dold plats som känns magisk.",
+      "Du bemästrar äntligen det du trodde att du aldrig skulle göra.",
+      "Ditt arbete uppmärksammas på ett meningsfullt sätt.",
+      "Du återknyter till en passion från barndomen.",
+      "Någon skickar dig ett brev — riktigt eller digitalt — som berör ditt hjärta.",
+      "Ett litet beslut leder till ett oförglömligt äventyr.",
+      "Du ser ett stjärnfall — och önskar dig något som betyder något."
+    ]
+  },
+  "MESSAGES": {
+    "CONFIRM_EXIT": "Är du säker på att du vill avsluta?",
+    "PLAYCARD_OPENED": "Tryck på tärningen\nför att använda ett kort",
+    "GAME_OVER_CELL": "Game Over\nom du\nhamnar här",
+    "CANNOT_OPEN_WHILE_MOVING": "Ödet är\ni rörelse!",
+    "RESTORE_SUCCESS": "Återställning lyckades!",
+    "RESTORE_FAILURE": "Inga tidigare köp hittades"
+  },
+  "ABOUT": {
+    "LINE1": "Låt resan börja.",
+    "LINE2": "Förvänta det oväntade — det är en del av det roliga!",
+    "LINE3": "Dela berättelsen — äventyr är bättre tillsammans."
+  },
+  "GAME_END": {
+    "LINE1": "Ödet är spått! Men vem säger att det är slutgiltigt?",
+    "LINE2": "Rulla igen — eller spela för någon som behöver lite tur.",
+    "LINE3": "Dubbelt så kul — dela det med andra!"
+  },
+  "OPENING_MESSAGE": {
+    "LINE1": "Stjärnorna står rätt för en ny resa.",
+    "LINE2": "Kasta de heliga tärningarna och avslöja hemligheterna på din väg.",
+    "LINE3": "Vilket öde väntar där framme? Låt tärningarna bestämma."
+  },
+  "SHARE": {
+    "TITLE": "Dice to Midnight",
+    "TEXT": "Rulla dig in i det nya året"
+  },
+  "SETTINGS": {
+    "TITLE": "Inställningar",
+    "SOUND": "Ljud",
+    "BACKGROUND_MUSIC": "Musik",
+    "LANGUAGE": "Språk"
+  },
+  "SHOP_SCREEN": {
+    "TITLE": "LÅS UPP DITT ÖDE",
+    "DESCRIPTION": "En nyckel öppnar alla dörrar. Lås upp Parallellt Universum, Cupidos Pil och Midas Beröring för att ta full kontroll över din framtid.",
+    "UNLOCK": "LÅS UPP ALLT",
+    "RESTORE_PURCHASES": "ÅTERSTÄLL",
+    "BACK_TO_GAME": "TILLBAKA TILL SPELET"
+  },
+  "MODE_CHOOSING_SCREEN": {
+    "TITLE": "VÄLJ DITT ÖDE",
+    "DESCRIPTION": "Det finns fyra sätt att manifestera ditt öde. Välj och spela.",
+    "UNLOCK": "LÅS UPP ALLT",
+    "RESTORE_PURCHASES": "ÅTERSTÄLL",
+    "BACK_TO_GAME": "TILLBAKA TILL SPELET"
+  }
+}
